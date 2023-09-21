@@ -45,10 +45,11 @@ This project uses customer data to analyze and anticipate customer attrition for
 -churn, used as the target. 1 if the client has left the bank during some period or 0 if he/she has not.
 <br>
 Aim is to Predict the Customer Churn for ABC Bank.</p>
+"source": [
+    "import pandas as pd\n",
+    "import numpy as np"
+   ]
 <h2> 2. DATA VISUALIZATION </h2>
-```python
-def greet(name):
-    print("Hello, " + name + "!")
-```
+
  </body>
 </html>
