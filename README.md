@@ -19,31 +19,31 @@ This project uses customer data to analyze and anticipate customer attrition for
 <img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2019/05/customer-churn-edit.jpeg"/>
 <h2> ABOUT DATASET </h2>
 <p>This dataset is for ABC Multinational bank with following columns:
-
+<br>
 -customer_id, unused variable.
-
+<br>
 -credit_score, used as input.
-
+<br>
 -country, used as input.
-
+<br>
 -gender, used as input.
-
+<br>
 -age, used as input.
-
+<br>
 -tenure, used as input.
-
+<br>
 -balance, used as input.
-
+<br>
 -products_number, used as input.
-
+<br>
 -credit_card, used as input.
-
+<br>
 -active_member, used as input.
-
+<br>
 -estimated_salary, used as input.
-
+<br>
 -churn, used as the target. 1 if the client has left the bank during some period or 0 if he/she has not.
-
+<br>
 Aim is to Predict the Customer Churn for ABC Bank.</p>
 <h2> 2. DATA VISUALIZATION </h2>
 import pandas as pd
