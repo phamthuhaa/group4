@@ -14,7 +14,7 @@
    "id": "8bcf447b",
    "metadata": {},
    "source": [
-    "Churn prediction is the practice of determining which customers are most likely to discontinue or cancel their subscription to a service. This is an important consideration for many firms because obtaining new customers is more expensive than retaining existing ones..\n",
+    "Churn prediction is the practice of determining which customers are most likely to discontinue or cancel their subscription to a service. This is an important consideration for many firms because obtaining new customers is more expensive than retaining existing ones...\n",
     "\n",
     "Every year, the banking industry has one of the highest rates of client attrition. The expanding market competitiveness, which provides customers with more options and better offers, is one of the primary drivers of client attrition for retail banking firms. In order to detect early signs of potential customer churn, banks must obtain a full, 360-degree view of their client base and their interactions across several channels. They would be able to detect early warning signs of client churn, such as a decrease in transactions or a drop in sales..\n",
     "\n",
