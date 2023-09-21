@@ -46,6 +46,7 @@ This project uses customer data to analyze and anticipate customer attrition for
 <br>
 Aim is to Predict the Customer Churn for ABC Bank.</p>
 <h2> 2. DATA VISUALIZATION </h2>
+```
 import pandas as pd
 import numpy as np
 
