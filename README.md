@@ -8,8 +8,8 @@ background-color:#fcdcf2;
 }
 </style>
  <body>
-  <h1 style="font-size:40px;text-align:center;color:#704362;"> <b>MINI-PRESENT</b></h1>
-  <p style="font-size:30px;text-align:center;color:#704362;"> <i>Phạm Thị Thu Hà - Lê Thiên Nhi - Nguyễn Phan Hoàng Duy - Đinh Hoàng Dương - Trương Quang Duy - Hoàng Quang Minh </i></p>
+  <h1 style="font-size:40px;text-align:center;color:#704362;"> <b>MINI-PRESENT <br> BANK CUSTOMER CHURN </b></h1>
+  <p style="font-size:24px;text-align:center;color:#704362;"> <i>Phạm Thị Thu Hà - Lê Thiên Nhi - Nguyễn Phan Hoàng Duy - Đinh Hoàng Dương - Trương Quang Duy - Hoàng Quang Minh </i></p>
   <h2> 1.INTRODUCTION </h2>
   <p>Churn prediction is the practice of determining which customers are most likely to discontinue or cancel their subscription to a service. This is an important consideration for many firms because obtaining new customers is more expensive than retaining existing ones..
 
