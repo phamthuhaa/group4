@@ -59,6 +59,9 @@ Aim is to Predict the Customer Churn for ABC Bank.</p>
 <p>Most banks and financial institutions have adjusted and provided services such as personal loans, credit card facilities, and other loan packages, targeting individuals in the age range of 22 and above. From the initial data, we can observe a sharp increase, reaching its peak for the age group of 30-40, which consists of individuals with stable careers and finances. Subsequently, a significant decline in the data can be predicted as the age increases, as the purchasing and consumption habits and trends of this age group tend to decrease over time. They primarily prefer cash payments, resulting in lower credit scores.</p>
 <img src="./mini-present/9.png">
 <img src="./mini-present/10.png">
+<p>We used a scatter plot chart to display associations between age and tenure.
+Tenure is how many years he/she has a bank account in the Bank. 
+After 50, the pink dots tend to fade and are almost non-existent beyond the age of 80. From this, we can see that older people use bank accounts less frequently. In contrast, for ages between 25 and 50, the pink dots are very dark and spanning from 1 to 10 years</p>
 <img src="./mini-present/11.png">
 <img src="./mini-present/12.png">
 <img src="./mini-present/13.png">
@@ -109,6 +112,6 @@ Aim is to Predict the Customer Churn for ABC Bank.</p>
 <p>
  We can see that the number of people using both Credit Card and Active Mumber is 40%. This is followed by 40% of people using only 1 of the two categories. And the number of people who don't take both is 20%. Looking at the graph, we see that the number of people participating in the strategy is 80%, but there are still a few people who are not interested in this.
 </p>
-<h1 style=text-align:center;color:#704362,font-sixe:40px;"> <b>THANK YOU FOR LISTENING </b></h1>
+<h1 style="font-size:40px;text-align:center;color:#704362;"> <b>THANK YOU FOR LISTENING </b></h1>
  </body>
 </html>
