@@ -109,11 +109,11 @@ After 50, the pink dots tend to fade and are almost non-existent beyond the age 
 <img src="./mini-present/18.png">
 <img src="./mini-present/20.png">
 <p>
- We can see that the number of people using both Credit Card and Active Mumber is 40%. This is followed by 40% of people using only 1 of the two categories. And the number of people who don't take both is 20%. Looking at the graph, we see that the number of people participating in the strategy is 80%, but there are still a few people who are not interested in this.
+ We can see that the number of people using both Credit Card and Active Member is 40%. This is followed by 40% of people using only 1 of the two categories. And the number of people who don't take both is 20%. Looking at the graph, we see that the number of people participating in the strategy is 80%, but there are still a few people who are not interested in this.
 </p>
 <h2> 3. CONCLUSION </h2>
 <p>
- We can see that the number of people using both Credit Card and Active Mumber is 40%. This is followed by 40% of people using only 1 of the two categories. And the number of people who don't take both is 20%. Looking at the graph, we see that the number of people participating in the strategy is 80%, but there are still a few people who are not interested in this.
+ We can see that the number of people using both Credit Card and Active Member is 40%. This is followed by 40% of people using only 1 of the two categories. And the number of people who don't take both is 20%. Looking at the graph, we see that the number of people participating in the strategy is 80%, but there are still a few people who are not interested in this.
 </p>
 <h1 style="font-size:40px;text-align:center;color:#704362;"> <b>THANK YOU FOR LISTENING </b></h1>
  </body>
