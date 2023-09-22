@@ -114,7 +114,7 @@ After 50, the pink dots tend to fade and are almost non-existent beyond the age 
 </p>
 <h2> 3. CONCLUSION </h2>
 <p>
-Overall, the showed 4 chart determined the customer churn’s condition in the world today. Firstly, it shown some aspects like Credit score, tenure, Active Member and the Average Account balance. Through that, we can comment on the general state of the economy in general, the situation of using financial services in general of people of different ages. The use of financial services is increasing, accompanied by assimilation at different ages This is a very positive signal and can be used to make more professional and in-depth assessments for different purposes
+Overall, the showed 4 chart determined the customer churn’s condition in the world today. Firstly, it shown some aspects like Credit score, tenure, Active Member and the Average Account balance. Through that, we can comment on the general state of the economy in general, the situation of using financial services in particular of people of different ages. The use of financial services is increasing, accompanied by assimilation at different ages This is a very positive signal and can be used to make more professional and in-depth assessments for different purposes
 </p>
 <h1 style="font-size:40px;text-align:center;color:#704362;"> <b>THANK YOU FOR LISTENING </b></h1>
  </body>
