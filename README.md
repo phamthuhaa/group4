@@ -43,7 +43,7 @@ This project uses customer data to analyze and anticipate customer attrition for
 <br>
 -active_member, used as input.
 <br>
--active_member, used as input.
+-estimated_salary, used as input.
 <br>
 -Churn, used as the target. 1 if the client has left the bank during some period or 0 if he/she has not.
 <br>
