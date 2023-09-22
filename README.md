@@ -58,6 +58,7 @@ Aim is to Predict the Customer Churn for ABC Bank.</p>
 <p>Data visualization is an important method in the data exploration process and conveying information. By using charts, graphs, and plots, we can visually display relationships, trends, and patterns in data. This helps us gain deeper insights into the data and make informed decisions based on that information.</p>
 <img src="https://www.opendatasoft.com/wp-content/uploads/2022/08/Blog-thumbnail.png"/>
 <img src="./mini-present/6.png">
+<img src="./mini-present/n.png">
 <img src="./mini-present/8.png">
 <img src="./mini-present/7.png">
 <p>Looking at the chart, we can see the total credit scores based on different age ranges. From there, we can deduce the risk level of customers. From the age range before 20 and from 50 to 90 years old, we can assess these as high-risk customer profiles because individuals under 20 years old usually lack financial experience and credit history, while those between 50 and 90 years old often have a higher risk of high debt levels, resulting in lower credit scores. On the other hand, the age range from 30 to 40 years old is a range with high total credit scores because customers in this age group typically have stable income, leading to higher credit scores. Therefore, they can be classified into the low-risk group.</p>
