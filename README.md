@@ -114,7 +114,7 @@ After 50, the pink dots tend to fade and are almost non-existent beyond the age 
 </p>
 <h2> 3. CONCLUSION </h2>
 <p>
- We can see that the number of people using both Credit Card and Active Member is 40%. This is followed by 40% of people using only 1 of the two categories. And the number of people who don't take both is 20%. Looking at the graph, we see that the number of people participating in the strategy is 80%, but there are still a few people who are not interested in this.
+Overall, the showed 4 chart determined the customer churn’s condition in the world today. Firstly, it shown some aspects like Credit score, tenure, Active Member and the Average Account balance. Through that, we can comment on the general state of the economy in general, the situation of using financial services in general of people of different ages. The use of financial services is increasing, accompanied by assimilation at different ages This is a very positive signal and can be used to make more professional and in-depth assessments for different purposes
 </p>
 <h1 style="font-size:40px;text-align:center;color:#704362;"> <b>THANK YOU FOR LISTENING </b></h1>
  </body>
