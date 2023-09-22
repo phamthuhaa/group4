@@ -16,7 +16,7 @@ background-color:#fcdcf2;
   <h2> 1.INTRODUCTION </h2>
   <p>Churn prediction is the practice of determining which customers are most likely to discontinue or cancel their subscription to a service. This is an important consideration for many firms because obtaining new customers is more expensive than retaining existing ones..
 
-Every year, the banking industry has one of the highest rates of client attrition. The expanding market competitiveness, which provides customers with more options and better offers, is one of the primary drivers of client attrition for retail banking firms. In order to detect early signs of potential customer churn, banks must obtain a full, 360-degree view of their client base and their interactions across several channels. They would be able to detect early warning signs of client churn, such as a decrease in transactions or a drop in sales..
+Every year, the banking industry has one of the highest rates of client attrition. The expanding market competitiveness, which provides customers with more options and better offers, is one of the primary drivers of client attrition for retail banking firms. In order to detect early signs of potential customer churn, banks must obtain a full. They would be able to detect early warning signs of client churn, such as a decrease in transactions or a drop in sales..
 
 This project uses customer data to analyze and anticipate customer attrition for 'ABC Multinational Bank,' a fictitious bank. The ABC Multinational Bank dataset shows which clients have left, stayed, or signed up for their services. Each customer has multiple critical demographics that can help us identify at-risk customers, pain spots, and actions to be performed...</p>
 <img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2019/05/customer-churn-edit.jpeg"/>
@@ -31,7 +31,7 @@ This project uses customer data to analyze and anticipate customer attrition for
 <br>
 -Gender :It’s interesting to explore whether gender plays a role in a customer leaving the bank.
 <br>
--Age :This is certainly relevant, since older customers are less likely to leave their bank than younger ones.Tenure—refers to the number of years that the customer has been a client of the bank. Normally, older clients are more loyal and less likely to leave a bank.
+-Age :This is certainly relevant, since older customers are less likely to leave their bank than younger ones.
 <br>
 -Tenure :Refers to the number of years that the customer has been a client of the bank. Normally, older clients are more loyal and less likely to leave a bank.
 <br>
