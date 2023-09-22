@@ -23,27 +23,27 @@ This project uses customer data to analyze and anticipate customer attrition for
 <h2> ABOUT DATASET </h2>
 <p>This dataset is for ABC Multinational bank with following columns:
 <br>
--CustomerId :contains random values and has no effect on customer leaving the bank.
+-customer_id, unused variable.
 <br>
--CreditScore :Can have an effect on customer churn, since a customer with a higher credit score is less likely to leave the bank.
+-credit_score, used as input.
 <br>
 -country, used as input.
 <br>
--Gender :It’s interesting to explore whether gender plays a role in a customer leaving the bank.
+-gender, used as input.
 <br>
--Age :This is certainly relevant, since older customers are less likely to leave their bank than younger ones.
+-age, used as input
 <br>
--Tenure :Refers to the number of years that the customer has been a client of the bank. Normally, older clients are more loyal and less likely to leave a bank.
+-tenure, used as input.
 <br>
--Balance :Also a very good indicator of customer churn, as people with a higher balance in their accounts are less likely to leave the bank compared to those with lower balances.
+-balance, used as input.
 <br>
--Products_number :Refers to the number of products that a customer has purchased through the bank..
+-products_number, used as input.
 <br>
--Credit_card :Denotes whether or not a customer has a credit card. This column is also relevant, since people with a credit card are less likely to leave the bank.
+-credit_card, used as input
 <br>
--Active_member :active customers are less likely to leave the bank.
+-active_member, used as input.
 <br>
--Estimated_salary :as with balance, people with lower salaries are more likely to leave the bank compared to those with higher salaries..
+-active_member, used as input.
 <br>
 -Churn, used as the target. 1 if the client has left the bank during some period or 0 if he/she has not.
 <br>
