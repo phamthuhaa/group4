@@ -63,9 +63,8 @@ Aim is to Predict the Customer Churn for ABC Bank.</p>
 <p>Looking at the chart, we can see the total credit scores based on different age ranges. From there, we can deduce the risk level of customers. From the age range before 20 and from 50 to 90 years old, we can assess these as high-risk customer profiles because individuals under 20 years old usually lack financial experience and credit history, while those between 50 and 90 years old often have a higher risk of high debt levels, resulting in lower credit scores. On the other hand, the age range from 30 to 40 years old is a range with high total credit scores because customers in this age group typically have stable income, leading to higher credit scores. Therefore, they can be classified into the low-risk group.</p>
 <img src="./mini-present/9.png">
 <img src="./mini-present/10.png">
-<p>We used a scatter plot chart to display associations between age and tenure.
-Tenure is how many years he/she has a bank account in the Bank. 
-After 50, the pink dots tend to fade and are almost non-existent beyond the age of 80. From this, we can see that older people use bank accounts less frequently. In contrast, for ages between 25 and 50, the pink dots are very dark and spanning from 1 to 10 years</p>
+<p>We used a scatter plot chart to display associations between age and tenure. Tenure is how many years he/she has a bank account in the Bank. We used alpha = 0,05 because this can be helpful when we have a large dataset, as it allows us to visualize the overall distribution of data points while still being able to see areas of high density.
+After 50, the pink dots tend to fade and are almost non-existent beyond the age of 80. From this, we can see that older people use bank accounts less frequently. In contrast, for ages between 25 and 50, the pink dots are very dark and spanning from 1 to 10 years.</p>
 <img src="./mini-present/11.png">
 <img src="./mini-present/12.png">
 <img src="./mini-present/13.png">
