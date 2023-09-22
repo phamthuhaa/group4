@@ -56,6 +56,7 @@ Aim is to Predict the Customer Churn for ABC Bank.</p>
 <img src="./mini-present/5.png">
 <h2> 2. DATA VISUALIZATION </h2>
 <p>Data visualization is an important method in the data exploration process and conveying information. By using charts, graphs, and plots, we can visually display relationships, trends, and patterns in data. This helps us gain deeper insights into the data and make informed decisions based on that information.</p>
+<img src="https://www.opendatasoft.com/wp-content/uploads/2022/08/Blog-thumbnail.png"/>
 <img src="./mini-present/6.png">
 <img src="./mini-present/8.png">
 <img src="./mini-present/7.png">
