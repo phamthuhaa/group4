@@ -60,7 +60,7 @@ Aim is to Predict the Customer Churn for ABC Bank.</p>
 <img src="./mini-present/6.png">
 <img src="./mini-present/8.png">
 <img src="./mini-present/7.png">
-<p>Most banks and financial institutions have adjusted and provided services such as personal loans, credit card facilities, and other loan packages, targeting individuals in the age range of 22 and above. From the initial data, we can observe a sharp increase, reaching its peak for the age group of 30-40, which consists of individuals with stable careers and finances. Subsequently, a significant decline in the data can be predicted as the age increases, as the purchasing and consumption habits and trends of this age group tend to decrease over time. They primarily prefer cash payments, resulting in lower credit scores.</p>
+<p>Looking at the chart, we can see the total credit scores based on different age ranges. From there, we can deduce the risk level of customers. From the age range before 20 and from 50 to 90 years old, we can assess these as high-risk customer profiles because individuals under 20 years old usually lack financial experience and credit history, while those between 50 and 90 years old often have a higher risk of high debt levels, resulting in lower credit scores. On the other hand, the age range from 30 to 40 years old is a range with high total credit scores because customers in this age group typically have stable income, leading to higher credit scores. Therefore, they can be classified into the low-risk group.</p>
 <img src="./mini-present/9.png">
 <img src="./mini-present/10.png">
 <p>We used a scatter plot chart to display associations between age and tenure.
