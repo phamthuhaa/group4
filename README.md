@@ -23,29 +23,29 @@ This project uses customer data to analyze and anticipate customer attrition for
 <h2> ABOUT DATASET </h2>
 <p>This dataset is for ABC Multinational bank with following columns:
 <br>
--customer_id, unused variable.
+-CustomerId :contains random values and has no effect on customer leaving the bank.
 <br>
--credit_score, used as input.
+-CreditScore :Can have an effect on customer churn, since a customer with a higher credit score is less likely to leave the bank.
 <br>
 -country, used as input.
 <br>
--gender, used as input.
+-Gender :It’s interesting to explore whether gender plays a role in a customer leaving the bank.
 <br>
--age, used as input.
+-Age :This is certainly relevant, since older customers are less likely to leave their bank than younger ones.Tenure—refers to the number of years that the customer has been a client of the bank. Normally, older clients are more loyal and less likely to leave a bank.
 <br>
--tenure, used as input.
+-Tenure :Refers to the number of years that the customer has been a client of the bank. Normally, older clients are more loyal and less likely to leave a bank.
 <br>
--balance, used as input.
+-Balance :Also a very good indicator of customer churn, as people with a higher balance in their accounts are less likely to leave the bank compared to those with lower balances.
 <br>
--products_number, used as input.
+-Products_number :Refers to the number of products that a customer has purchased through the bank..
 <br>
--credit_card, used as input.
+-Credit_card :Denotes whether or not a customer has a credit card. This column is also relevant, since people with a credit card are less likely to leave the bank.
 <br>
--active_member, used as input.
+-Active_member :active customers are less likely to leave the bank.
 <br>
--estimated_salary, used as input.
+-Estimated_salary :as with balance, people with lower salaries are more likely to leave the bank compared to those with higher salaries..
 <br>
--churn, used as the target. 1 if the client has left the bank during some period or 0 if he/she has not.
+-Churn, used as the target. 1 if the client has left the bank during some period or 0 if he/she has not.
 <br>
 Aim is to Predict the Customer Churn for ABC Bank.</p>
 
