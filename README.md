@@ -13,7 +13,7 @@ background-color:#fcdcf2;
  <body>
   <h1 style="font-size:40px;text-align:center;color:#704362;"> <b>MINI-PRESENT <br> BANK CUSTOMER CHURN </b></h1>
   <p style="font-size:16px;text-align:center;color:#704362;"> <i>Phạm Thị Thu Hà - Lê Thiên Nhi - Nguyễn Phan Hoàng Duy - Đinh Hoàng Dương - Trương Quang Duy - Hoàng Quang Minh </i></p>
-  <h2> 1.INTRODUCTION </h2>
+  <h2> 1.INTRODUCTION (Nguyen Phan Hoang Duy) </h2>
   <p>Churn prediction is the practice of determining which customers are most likely to discontinue or cancel their subscription to a service. This is an important consideration for many firms because obtaining new customers is more expensive than retaining existing ones..
 
 Every year, the banking industry has one of the highest rates of client attrition. The expanding market competitiveness, which provides customers with more options and better offers, is one of the primary drivers of client attrition for retail banking firms. In order to detect early signs of potential customer churn, banks must obtain a full. They would be able to detect early warning signs of client churn, such as a decrease in transactions or a drop in sales..
@@ -61,9 +61,11 @@ Aim is to Predict the Customer Churn for ABC Bank.</p>
 <img src="./mini-present/n.png">
 <img src="./mini-present/8.png">
 <img src="./mini-present/7.png">
+<h3> Pham Thi Thu Ha </h3>
 <p>Looking at the chart, we can see the total credit scores based on different age ranges. From there, we can deduce the risk level of customers. From the age range before 20 and from 50 to 90 years old, we can assess these as high-risk customer profiles because individuals under 20 years old usually lack financial experience and credit history, while those between 50 and 90 years old often have a higher risk of high debt levels, resulting in lower credit scores. On the other hand, the age range from 30 to 40 years old is a range with high total credit scores because customers in this age group typically have stable income, leading to higher credit scores. Therefore, they can be classified into the low-risk group.</p>
 <img src="./mini-present/9.png">
 <img src="./mini-present/10.png">
+<h3> Le Thien Nhi </h3>
 <p>We used a scatter plot chart to display associations between age and tenure. Tenure is how many years he/she has a bank account in the Bank. We used alpha = 0,05 because this can be helpful when we have a large dataset, as it allows us to visualize the overall distribution of data points while still being able to see areas of high density.
 After 50, the pink dots tend to fade and are almost non-existent beyond the age of 80. From this, we can see that older people use bank accounts less frequently. In contrast, for ages between 25 and 50, the pink dots are very dark and spanning from 1 to 10 years.</p>
 <img src="./mini-present/11.png">
@@ -84,10 +86,12 @@ After 50, the pink dots tend to fade and are almost non-existent beyond the age 
 <br>plt.ylabel('Balance')
 <br>plt.show()</p>
 <img src="./mini-present/14.png">
+<h3> Dinh Hoang Duong chart 1 </h3>
 <p>
  First, we can see that ages with account balances ranging from 110,000 - 140,000 are distributed very evenly among different ages but mainly concentrated in the ages 25-30 and 41-45 years old. And the number of zero account balances also exists a lot in the range of 32 - 42 years old and from 46 - 50 years old.
 </p>
 <img src="./mini-present/15.png">
+<h3> Dinh Hoang Duong chart 2 </h3>
 <p>
 <br>age = np.array([24,25,27,29,31,32,34,35,36,38,39,41,42,43,44,45,46,50,58])
 <br>balance = np.array([0,0,134603.88,87371.955,102016.72,0,0,0,136815.64,0,0,41903.93,79830.4,133430.125,85268.95,71564.705,0,0,132602.88])
@@ -109,10 +113,11 @@ After 50, the pink dots tend to fade and are almost non-existent beyond the age 
 <img src="./mini-present/17.png">
 <img src="./mini-present/18.png">
 <img src="./mini-present/20.png">
+<h3> Truong Quang Duy </h3>
 <p>
  We can see that the number of people using both Credit Card and Active Member is 40%. This is followed by 40% of people using only 1 of the two categories. And the number of people who don't take both is 20%. Looking at the graph, we see that the number of people participating in the strategy is 80%, but there are still a few people who are not interested in this.
 </p>
-<h2> 3. CONCLUSION </h2>
+<h2> 3. CONCLUSION (Hoang Quang Minh) </h2>
 <p>
 Overall, the shown 4 chart determined the customer churn’s condition in the world today. Firstly, it shown some aspects like Credit score, tenure, Active Member and the Average Account balance. Through that, we can comment on the general state of the economy in general, the situation of using financial services in particular of people of different ages. The use of financial services is increasing, accompanied by assimilation at different ages This is a very positive signal and can be used to make more professional and in-depth assessments for different purposes
 </p>
